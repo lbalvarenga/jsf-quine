@@ -47,3 +47,7 @@ diff -q quine0.js quine1.js
 ## About the repository
 
 alpha/ contains testing scripts that should be more readable than <i>quinegen.js</i>.
+
+## Considerations
+
+Although the quine could be much smaller, it is Turing complete and can produce any valid program by modifying the original generator.
