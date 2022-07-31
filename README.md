@@ -18,7 +18,7 @@ A 966-byte JavaScript quine generator that produces a valid self-replicating fil
 ## Inspiration
 
 All credit goes to the owner of the channel [Low Level Javascript](https://www.youtube.com/c/LowLevelJavaScript). This is based on a video of his, titled [JavaScript Is Weird (EXTREME EDITION)
-](https://www.youtube.com/watch?v=sRWE5tnaxlI).
+](https://www.youtube.com/watch?v=sRWE5tnaxlI)
 
 ## Running the script (producing the quine)
 
@@ -36,7 +36,7 @@ node quinegen.js > quine0.js
 node quine0.js > quine1.js
 ```
 
-## Verifying the files are the same
+## Verifying the files identical
 
 On most *nix systems, the output of the following should be blank:
 
