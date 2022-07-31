@@ -36,7 +36,7 @@ node quinegen.js > quine0.js
 node quine0.js > quine1.js
 ```
 
-## Verifying the files identical
+## Verifying the files are identical
 
 On most *nix systems, the output of the following should be blank:
 
